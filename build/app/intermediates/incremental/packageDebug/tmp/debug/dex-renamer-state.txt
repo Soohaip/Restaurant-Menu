@@ -1,0 +1,4 @@
+#Sun Sep 05 20:44:35 EET 2021
+base.0=E\:\\Android Course\\flutter-p\\meal_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
